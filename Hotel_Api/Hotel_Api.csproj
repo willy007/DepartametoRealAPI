@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>52431a48-12f0-49d5-b93b-90648726580a</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.18.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hotel.DTO\Hotel.DTO.csproj" />
+    <ProjectReference Include="..\Hotel.Repositorio\Hotel.Repositorio.csproj" />
+    <ProjectReference Include="..\Hotel.Servicio\Hotel.Servicio.csproj" />
+    <ProjectReference Include="..\Hotel.Utilidades\Hotel.Utilidades.csproj" />
+    <ProjectReference Include="..\Hotle.Modelo\Hotel.Modelo.csproj" />
+  </ItemGroup>
+
+</Project>

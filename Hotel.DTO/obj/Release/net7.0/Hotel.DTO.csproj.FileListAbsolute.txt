@@ -1,0 +1,12 @@
+E:\Proyecto_Hotel\Hotel.DTO\bin\Release\net7.0\Hotel.DTO.deps.json
+E:\Proyecto_Hotel\Hotel.DTO\bin\Release\net7.0\Hotel.DTO.dll
+E:\Proyecto_Hotel\Hotel.DTO\bin\Release\net7.0\Hotel.DTO.pdb
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.csproj.AssemblyReference.cache
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.AssemblyInfoInputs.cache
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.AssemblyInfo.cs
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.csproj.CoreCompileInputs.cache
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.dll
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\refint\Hotel.DTO.dll
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\Hotel.DTO.pdb
+E:\Proyecto_Hotel\Hotel.DTO\obj\Release\net7.0\ref\Hotel.DTO.dll

@@ -1,0 +1,4 @@
+linux64_musl/
+fly.toml
+Hotel_Api/appsettings.Development.json
+Hotel_Api/appsettings.json

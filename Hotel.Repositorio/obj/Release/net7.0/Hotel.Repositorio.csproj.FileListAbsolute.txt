@@ -1,0 +1,15 @@
+E:\Proyecto_Hotel\Hotel.Repositorio\bin\Release\net7.0\Hotel.Repositorio.deps.json
+E:\Proyecto_Hotel\Hotel.Repositorio\bin\Release\net7.0\Hotel.Repositorio.dll
+E:\Proyecto_Hotel\Hotel.Repositorio\bin\Release\net7.0\Hotel.Repositorio.pdb
+E:\Proyecto_Hotel\Hotel.Repositorio\bin\Release\net7.0\Hotel.Modelo.dll
+E:\Proyecto_Hotel\Hotel.Repositorio\bin\Release\net7.0\Hotel.Modelo.pdb
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.csproj.AssemblyReference.cache
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.AssemblyInfoInputs.cache
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.AssemblyInfo.cs
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.csproj.CoreCompileInputs.cache
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.csproj.CopyComplete
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.dll
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\refint\Hotel.Repositorio.dll
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\Hotel.Repositorio.pdb
+E:\Proyecto_Hotel\Hotel.Repositorio\obj\Release\net7.0\ref\Hotel.Repositorio.dll

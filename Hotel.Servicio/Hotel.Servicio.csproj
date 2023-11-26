@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hotel.DTO\Hotel.DTO.csproj" />
+    <ProjectReference Include="..\Hotel.Repositorio\Hotel.Repositorio.csproj" />
+    <ProjectReference Include="..\Hotel.Utilidades\Hotel.Utilidades.csproj" />
+    <ProjectReference Include="..\Hotle.Modelo\Hotel.Modelo.csproj" />
+  </ItemGroup>
+
+</Project>

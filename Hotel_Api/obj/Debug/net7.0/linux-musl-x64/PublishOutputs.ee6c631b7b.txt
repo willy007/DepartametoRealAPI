@@ -1,0 +1,9 @@
+E:\Proyecto_Hotel\linux64_musl\appsettings.Development.json
+E:\Proyecto_Hotel\linux64_musl\appsettings.json
+E:\Proyecto_Hotel\linux64_musl\Hotel_Api.pdb
+E:\Proyecto_Hotel\linux64_musl\Hotel.DTO.pdb
+E:\Proyecto_Hotel\linux64_musl\Hotel.Repositorio.pdb
+E:\Proyecto_Hotel\linux64_musl\Hotel.Servicio.pdb
+E:\Proyecto_Hotel\linux64_musl\Hotel.Utilidades.pdb
+E:\Proyecto_Hotel\linux64_musl\Hotel.Modelo.pdb
+E:\Proyecto_Hotel\linux64_musl\Hotel_Api
